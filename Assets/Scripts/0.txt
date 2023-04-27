@@ -1,0 +1,22 @@
+0
+Instructions for constructing a circuit divider to power a LED
+
+Materials:
+9 volt battery (1)
+10k Ohm resistors (2)
+Jumper wire (1)
+Breadboard (1)
+LED (1)
+
+Steps:
+1. 	Attach positive (red) lead of power supply to the red (+) power rail of the breadboard
+2. 	Attach negative (black) lead of power supply to the black (-) power rail of the breadboard
+3. 	Attach one end of a 10k ohm resistor to the positive power rail of the bread board 
+	and attach the other end to row 8 column h of the breadboard
+4.	Attach one end of a jumper wire to column f row 8 of the breadboard and attach the other end to 
+	row 10 column f of the bread board
+5.	Attach anode end of a LED to column f row 10 of breadboard and attach cathode end of LED to 
+	row 14 column h of breadboard
+6.	Attach one end of a 10k ohm resistor to row 14 column i of breadboard and attach other end of 
+	resistor to the negative power rail to complete the circuit.
+7. 	Turn on the power supply and watch LED illuminate
